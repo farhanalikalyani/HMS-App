@@ -1,0 +1,5 @@
+build/
+dist/
+deb-package/
+*.txt
+nohup.out

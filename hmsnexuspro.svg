@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background rounded square -->
+  <rect width="64" height="64" rx="14" fill="#0f172a"/>
+  <!-- Outer hex border -->
+  <polygon points="32,5 50,15 50,35 32,45 14,35 14,15" fill="#0f172a" stroke="#06b6d4" stroke-width="2"/>
+  <!-- Inner hex fill -->
+  <polygon points="32,8 48,17 48,33 32,42 16,33 16,17" fill="#1e293b"/>
+  <!-- Cross vertical -->
+  <rect x="28" y="14" width="8" height="22" rx="2.5" fill="#06b6d4"/>
+  <!-- Cross horizontal -->
+  <rect x="20" y="21" width="24" height="8" rx="2.5" fill="#06b6d4"/>
+  <!-- Center dot -->
+  <circle cx="32" cy="25" r="3" fill="#0f172a"/>
+  <!-- Circuit dots -->
+  <circle cx="50" cy="25" r="2" fill="#10b981"/>
+  <circle cx="14" cy="25" r="1.5" fill="#06b6d4"/>
+  <!-- Bottom text -->
+  <text x="32" y="57" font-family="sans-serif" font-size="7" font-weight="700"
+        fill="#94a3b8" text-anchor="middle" letter-spacing="1">NEXUS</text>
+</svg>
